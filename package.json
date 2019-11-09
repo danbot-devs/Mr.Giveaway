@@ -1,0 +1,22 @@
+{
+  "name": "giveaway",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "cpu-stat": "^2.0.1",
+    "discord.js": "^11.4.2",
+    "diskusage": "^1.0.0",
+    "fs": "0.0.1-security",
+    "mem-stat": "^1.0.5",
+    "ms": "^2.1.1",
+    "net-stat": "^2.0.1",
+    "os": "^0.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hadi1010, danielpmc",
+  "license": "MIT"
+}
